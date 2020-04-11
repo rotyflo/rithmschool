@@ -1,6 +1,28 @@
 # Rithm School
 
-### Terminal and UNIX
+#### Curriculum
+
+- [Terminal and UNIX](#Terminal-and-UNIX)
+- [Git and GitHub](#Git-and-GitHub)
+- [HTML / CSS I](#HTML-and-CSS-Basics)
+- [CSS II](#Intermediate-CSS)
+- [JavaScript I](#Intro-to-JavaScript)
+- [JavaScript II](#Intermediate-JavaScript-I)
+- [JavaScript III](#Intermediate-JavaScript-II)
+- [JavaScript IV](#Advanced-JavaScript-I)
+- [JavaScript V](#Advanced-JavaScript-II)
+- [Python I](#Python-Fundamentals-I)
+- [Python II](#Python-Fundamentals-II)
+- [Flask I / SQL](#Flask-and-SQL-Fundamentals)
+- [Flask II](#Intermediate-Flask)
+- [Node and Express I](#Node-and-Express.js-Fundamentals)
+- [Node and Express II](#Intermediate-Node-and-Express.js)
+- [React I](#React.js-Fundamentals)
+- [React II](#Intermediate-React.js)
+- [Data Structures and Algorithms](#Data-Structures-+-Algorithms)
+
+
+## Terminal and UNIX
 ###### Approx Time - 15 Hours
 
 1. Terminal Fundamentals
@@ -31,7 +53,7 @@
 - [ ] Shell Scripting and Vim
 - [ ] Advanced Terminal Exercises
 
-### Git and GitHub
+## Git and GitHub
 ###### Approx Time - 15 Hours
 
 1. Git Basics
@@ -64,9 +86,8 @@
 - [ ] Reverting
 - [ ] Advanced Git Exercises
 
-### HTML and CSS Basics
+## HTML and CSS Basics
 ###### Approx Time - 10 Hours
-
 
 1. HTML Fundamentals
 
@@ -98,24 +119,24 @@
 - [ ] Flexbox
 - [ ] Layout Exercise
 
-### Intermediate CSS
+## Intermediate CSS
 ###### Approx Time - 15 Hours
 
-1 Transitions, Transforms, and Animations
+1. Transitions, Transforms, and Animations
 
 - [ ] CSS Transforms
 - [ ] CSS Transitions
 - [ ] CSS Animations
 - [ ] Transforms, Transitions, and Animations Exercises
 
-2 Responsive Design
+2. Responsive Design
 
 - [ ] CSS Resets
 - [ ] Responsive Design
 - [ ] Responsive Units
 - [ ] Responsive Design Exercise
 
-3 Twitter Bootstrap
+3. Twitter Bootstrap
 
 - [ ] Introduction to Bootstrap
 - [ ] Layout
@@ -124,7 +145,7 @@
 - [ ] Bootstrap Components
 - [ ] Bootstrap Exercise
 
-4 Deploying Static Websites
+4. Deploying Static Websites
 
 - [ ] Static Website Intro
 - [ ] Github Pages
@@ -132,7 +153,7 @@
 - [ ] Amazon S3
 - [ ] Personal Website Exercise
 
-### Intro to JavaScript
+## Intro to JavaScript
 ###### Approx Time - 15 Hours
 
 1. JavaScript Introduction
@@ -163,7 +184,7 @@
 - [ ] Hoisting
 - [ ] Functions Exercises
 
-### Intermediate JavaScript I
+## Intermediate JavaScript I
 ###### Approx Time - 20 Hours
 
 1. Debugging JavaScript
@@ -206,7 +227,7 @@
 - [ ] Additional Array Methods
 - [ ] Iterators Exercises
 
-### Intermediate JavaScript II
+## Intermediate JavaScript II
 ###### Approx Time - 25 Hours
 
 1. Introduction to jQuery
@@ -235,7 +256,7 @@
 - [ ] AJAX with jQuery
 - [ ] AJAX Exercises
 
-### Advanced JavaScript I
+## Advanced JavaScript I
 ###### Approx Time - 25 Hours
 
 1. Testing with Jasmine
@@ -259,7 +280,7 @@
 - [ ] Prototypes
 - [ ] Inheritance
 
-### Advanced JavaScript II
+## Advanced JavaScript II
 ###### Approx Time - 20 Hours
 
 1. Canvas
@@ -296,7 +317,7 @@
 - [ ] Introduction to Design Patterns
 - [ ] Anti Patterns in JavaScript
 
-### Python Fundamentals I
+## Python Fundamentals I
 ###### Approx Time - 20 Hours
 
 1. Python Introduction
@@ -333,7 +354,7 @@
 - [ ] Useful Python Modules
 - [ ] Debugging and Modules Exercises
 
-### Python Fundamentals II
+## Python Fundamentals II
 ###### Approx Time - 20 Hours
 
 1. Object Oriented Programming with Python
@@ -362,7 +383,7 @@
 - [ ] Server Side HTTP Requests
 - [ ] Web Scraping Exercises
 
-### Flask and SQL Fundamentals
+## Flask and SQL Fundamentals
 ###### Approx Time - 25 Hours
 
 1. Introduction to Flask
@@ -402,7 +423,7 @@
 - [ ] Forms with WTForms
 - [ ] Deployment with Heroku
 
-### Intermediate Flask
+## Intermediate Flask
 ###### Approx Time - 30 Hours
 
 1. Structuring Larger Applications
@@ -425,7 +446,7 @@
 - [ ] Authenticating a Flask API with JWTs
 - [ ] Testing Flask JSON APIs
 
-### Node and Express.js Fundamentals
+## Node and Express.js Fundamentals
 ###### Approx Time - 15 Hours
 
 1. Introduction to Node.js and NPM
@@ -450,7 +471,7 @@
 - [ ] One-To-Many Relationships
 - [ ] Many-To-Many Relationships
 
-### Intermediate Node and Express.js
+## Intermediate Node and Express.js
 ###### Approx Time - 20 Hours
 
 1. Building, Securing, and Testing JSON APIs
@@ -490,7 +511,7 @@
 - [ ] Web Scraping with Node.js
 - [ ] Background Jobs with Kue
 
-### React.js Fundamentals
+## React.js Fundamentals
 ###### Approx Time - 25 Hours
 
 1. Introduction to React
@@ -512,7 +533,7 @@
 - [ ] Forms and Refs
 - [ ] Component Life Cycle
 
-### Intermediate React.js
+## Intermediate React.js
 ###### Approx Time - 25 Hours
 
 1. Intermediate React and Testing with Jest and Enzyme
@@ -540,7 +561,7 @@
 - [ ] Full Stack React
 - [ ] Adding Authentication to a React/Redux App
 
-### Data Structures + Algorithms
+## Data Structures + Algorithms
 ###### Approx Time - 30 Hours
 
 1. Complexity Analysis and Recursion
