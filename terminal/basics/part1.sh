@@ -23,4 +23,4 @@ rm copy.txt
 cp -r ../first ../second
 
 # delete the second folder
-rm -r ../second
+rm -rf ../second
