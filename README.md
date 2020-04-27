@@ -35,9 +35,9 @@
 2. Permissions, Redirection and Piping
 
 - [x] Permissions and Links
-- [ ] Redirection
-- [ ] Piping
-- [ ] Permissions, Redirection, and Piping Exercise
+- [x] Redirection
+- [x] Piping
+- [x] Permissions, Redirection, and Piping Exercise
 
 3. Environment, Process and Finding
 
