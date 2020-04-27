@@ -27,14 +27,14 @@
 
 1. Terminal Fundamentals
 
-- [ ] Navigating in Terminal
-- [ ] Working with Files and Folders
-- [ ] Listing Files and Flags
-- [ ] Terminal Basics Exercises
+- [x] Navigating in Terminal
+- [x] Working with Files and Folders
+- [x] Listing Files and Flags
+- [x] Terminal Basics Exercises
 
 2. Permissions, Redirection and Piping
 
-- [ ] Permissions and Links
+- [x] Permissions and Links
 - [ ] Redirection
 - [ ] Piping
 - [ ] Permissions, Redirection, and Piping Exercise
