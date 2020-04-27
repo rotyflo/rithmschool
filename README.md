@@ -29,11 +29,19 @@
 
 - [x] Navigating in Terminal
 ```
-Define what Terminal is and how it is structured
-Navigate through and list files on your machine
-Define the following terms: shell, terminal, directory, absolute path, relative path
+- Define what Terminal is and how it is structured
+- Navigate through and list files on your machine
+- Define the following terms: shell, terminal, directory, absolute path, relative path
 ```
 - [x] Working with Files and Folders
+```
+- Create files and folders in Terminal using mkdir and touch
+- Move files and folders in Terminal using mv
+- Copy files and folders in Terminal using cp
+- Remove files and folders in Terminal using rm and rmdir
+- Explain what a flag is in Terminal
+- Explain what the following commands do: whoami, pwd, cat, echo, less, open
+```
 - [x] Listing Files and Flags
 - [x] Terminal Basics Exercises
 
