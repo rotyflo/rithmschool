@@ -28,6 +28,11 @@
 1. Terminal Fundamentals
 
 - [x] Navigating in Terminal
+```
+Define what Terminal is and how it is structured
+Navigate through and list files on your machine
+Define the following terms: shell, terminal, directory, absolute path, relative path
+```
 - [x] Working with Files and Folders
 - [x] Listing Files and Flags
 - [x] Terminal Basics Exercises
