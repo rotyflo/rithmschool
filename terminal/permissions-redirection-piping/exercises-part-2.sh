@@ -8,7 +8,7 @@ wc -l vegetables.txt
 
 # Create a file called vegetables_sorted.txt which contains all the unique vegetables sorted in ascending order in vegetables.txt (do this without the touch command).
 
-sort vegetables.txt > vegetables_sorted.txt
+sort vegetables.txt | uniq > vegetables_sorted.txt
 
 # Create a file called last_three.txt which contains the last three vegetables in the vegetables.txt file (do this without the touch command).
 
