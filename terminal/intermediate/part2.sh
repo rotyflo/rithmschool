@@ -1,7 +1,9 @@
+# 100%
+
 # Find all files inside the Desktop folder that have a name of "learn."
 find ~/Desktop -name 'learn'
 
-# Find all files inside the Desktop folder that start with a "P."
+# Find all files inside the Desktop folder that start with a "P"
 find ~/Desktop -name 'P*'
 
 # Find all files inside the Desktop folder that end with .txt.

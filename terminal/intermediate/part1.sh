@@ -1,3 +1,5 @@
+# 15 / 17 = 88%
+
 # Create an environment variable called FIRST_NAME and set it equal to your first name (this does not need to be permanent)
 export FIRST_NAME='rt'
 
@@ -8,10 +10,12 @@ echo $FIRST_NAME
 echo $PATH
 
 # What is the $PATH variable?
-# The location of the programs called in the terminal
+# EHHHHH - The location of the programs called in the terminal
+  # ANSWER - SET OF PATHS FOR OUR ENVIRONMENT TO FIND WHERE TO RUN COMMANDS
 
 # Why would you want to create an environment variable?
-# To reference something easily later on
+# INCOMPLETE - To reference something easily later on
+  # ANSWER - SECURE INFO AND USE VARIABLE MULTIPLE TIMES
 
 # How do you permanently save environment variables?
 # Write them to your shell config file (.bashrc for me)
