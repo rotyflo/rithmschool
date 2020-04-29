@@ -41,9 +41,9 @@
 
 3. Environment, Process and Finding
 
-- [ ] Terminal Environment
-- [ ] Processes
-- [ ] Finding Files and Folders
+- [x] Terminal Environment
+- [x] Processes
+- [x] Finding Files and Folders
 - [ ] Intermediate Terminal Exercises
 
 4. Advanced Terminal Commands
