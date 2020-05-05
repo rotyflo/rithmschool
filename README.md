@@ -48,10 +48,10 @@
 
 4. Advanced Terminal Commands
 
-- [ ] SSH
-- [ ] Cut, Sed, Awk, and Xargs
-- [ ] Shell Scripting and Vim
-- [ ] Advanced Terminal Exercises
+- [x] SSH
+- [x] Cut, Sed, Awk, and Xargs
+- [x] Shell Scripting and Vim
+- [x] Advanced Terminal Exercises
 
 ## Git and GitHub
 ###### Approx Time - 15 Hours
