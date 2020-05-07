@@ -58,18 +58,18 @@
 
 1. Git Basics
 
-- [ ] Getting Started With Git
-- [ ] Basic Git Commands
-- [ ] Configuring Git
-- [ ] Git Basics Exercises
+- [x] Getting Started With Git
+- [x] Basic Git Commands
+- [x] Configuring Git
+- [x] Git Basics Exercises
 
 2. GitHub Fundamentals
 
-- [ ] GitHub Introduction
-- [ ] Working with Remotes
-- [ ] SSH Keys
-- [ ] GitHub Workflow
-- [ ] GitHub Exercises
+- [x] GitHub Introduction
+- [x] Working with Remotes
+- [x] SSH Keys
+- [x] GitHub Workflow
+- [x] GitHub Exercises
 
 3. Branching and Merging
 
