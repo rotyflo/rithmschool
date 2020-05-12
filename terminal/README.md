@@ -1,17 +1,48 @@
 # Objectives
 
 ## Navigating in Terminal
-- Define what Terminal is and how it is structured
-- Navigate through and list files on your machine
-- Define the following terms: shell, terminal, directory, absolute path, relative path
+
+###### Define what Terminal is and how it is structured
+A terminal is a GUI for interacting with the shell
+
+###### Navigate through and list files on your machine
+- `cd LOCATION` - change directory
+- `ls` - list directory contents
+
+###### Define the following terms: shell, terminal, directory, absolute path, relative path
+- Shell - the program that processes commands
+- Terminal - emulator of an actual terminal which sends out commands
+- Directory - a folder
+- Absolute Path - a path starting from the root directory
+- Relative Path - a path starting from the working directory
 
 ## Working with Files and Folders
-- Create files and folders in Terminal using mkdir and touch
-- Move files and folders in Terminal using mv
-- Copy files and folders in Terminal using cp
-- Remove files and folders in Terminal using rm and rmdir
-- Explain what a flag is in Terminal
-- Explain what the following commands do: whoami, pwd, cat, echo, less, open
+
+###### Create files and folders in Terminal using mkdir and touch
+- `mkdir FOLDER`
+- `touch FILE`
+
+###### Move files and folders in Terminal using mv
+`mv FILE LOCATION`
+
+###### Copy files and folders in Terminal using cp
+`cp FILE LOCATION`
+
+###### Remove files and folders in Terminal using rm and rmdir
+- `rm FILE`
+- `rm -rf FOLDER`
+- `rmdir EMPTY_FOLDER`
+
+###### Explain what a flag is in Terminal
+A flag is an option that can be passed to a command
+
+###### Explain what the following commands do: whoami, pwd, cat, echo, less, open
+- `whoami` - print username
+- `pwd` - print working directory
+- `cat FILE` - print file contents
+- `echo 'STRING'` - print string
+- `less FILE` - open file in less file viewer
+- `open FILE` - opens file with default app (Mac command)
 
 ## Listing Files and Flags
 - Understand what the ls command does
@@ -67,4 +98,3 @@
 ## Shell Scripting and Vim
 - Write simple shell scripts with arguments
 - Use vi to open and edit files
-
