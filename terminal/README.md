@@ -45,9 +45,18 @@ A flag is an option that can be passed to a command
 - `open FILE` - opens file with default app (Mac command)
 
 ## Listing Files and Flags
-- Understand what the ls command does
-- Define flags and describe how the syntax works
-- List files using flags
+
+###### Understand what the ls command does
+Lists the contents of a directory
+
+###### Define flags and describe how the syntax works
+- Flags can change and enhance commands
+- They are added using `-` after a command and are usually a single upper/lowercase letter
+
+###### List files using flags
+- `ls -a`
+- `ls -l`
+- `ls -la`
 
 ## Permissions and Links
 - Determine the permissions set for a file or a directory
