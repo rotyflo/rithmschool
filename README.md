@@ -1,29 +1,31 @@
 # Rithm School
 
-#### Curriculum
+| Status | Material                                                          | Estimated Time
+---------------------------------------------------------------------------------------------
+| finish | [Terminal and UNIX](https://www.rithmschool.com/courses/terminal) | 15 Hours
+|        | [Git and GitHub](https://www.rithmschool.com/courses/git)         | 15 Hours
+|        | [HTML / CSS I](#HTML-and-CSS-Basics) |
 
-- [Terminal and UNIX](#Terminal-and-UNIX)
-- [Git and GitHub](#Git-and-GitHub)
-- [HTML / CSS I](#HTML-and-CSS-Basics)
-- [CSS II](#Intermediate-CSS)
-- [JavaScript I](#Intro-to-JavaScript)
-- [JavaScript II](#Intermediate-JavaScript-I)
-- [JavaScript III](#Intermediate-JavaScript-II)
-- [JavaScript IV](#Advanced-JavaScript-I)
-- [JavaScript V](#Advanced-JavaScript-II)
-- [Python I](#Python-Fundamentals-I)
-- [Python II](#Python-Fundamentals-II)
-- [Flask I / SQL](#Flask-and-SQL-Fundamentals)
-- [Flask II](#Intermediate-Flask)
-- [Node and Express I](#Node-and-Express.js-Fundamentals)
-- [Node and Express II](#Intermediate-Node-and-Express.js)
-- [React I](#React.js-Fundamentals)
-- [React II](#Intermediate-React.js)
-- [Data Structures and Algorithms](#Data-Structures-+-Algorithms)
+
+- [ ] [CSS II](#Intermediate-CSS)
+- [ ] [JavaScript I](#Intro-to-JavaScript)
+- [ ] [JavaScript II](#Intermediate-JavaScript-I)
+- [ ] [JavaScript III](#Intermediate-JavaScript-II)
+- [ ] [JavaScript IV](#Advanced-JavaScript-I)
+- [ ] [JavaScript V](#Advanced-JavaScript-II)
+- [ ] [Python I](#Python-Fundamentals-I)
+- [ ] [Python II](#Python-Fundamentals-II)
+- [ ] [Flask I / SQL](#Flask-and-SQL-Fundamentals)
+- [ ] [Flask II](#Intermediate-Flask)
+- [ ] [Node and Express I](#Node-and-Express.js-Fundamentals)
+- [ ] [Node and Express II](#Intermediate-Node-and-Express.js)
+- [ ] [React I](#React.js-Fundamentals)
+- [ ] [React II](#Intermediate-React.js)
+- [ ] [Data Structures and Algorithms](#Data-Structures-+-Algorithms)
 
 
 ## Terminal and UNIX
-###### Approx Time - 15 Hours
+###### Approx Time - 
 
 1. Terminal Fundamentals
 
@@ -54,7 +56,7 @@
 - [x] Advanced Terminal Exercises
 
 ## Git and GitHub
-###### Approx Time - 15 Hours
+###### Approx Time 
 
 1. Git Basics
 
