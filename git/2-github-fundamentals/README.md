@@ -1,4 +1,28 @@
-# Exercises
+# GitHub Fundamentals
+
+## Objectives
+
+### GitHub Introduction
+- Compare and contrast Git and GitHub
+- List use cases for GitHub
+
+### Working with Remotes
+- Create a remote repository on GitHub
+- Create a remote in the terminal
+- Push code from a local repository to a remote repository
+
+### SSH Keys
+- Understand the value of using SSH with GitHub
+- Create an SSH key
+- Authenticate successfully with GitHub
+
+### GitHub Workflow
+- Fork a repository on GitHub
+- Clone a remote repository
+- Issue a pull request
+- Explain what an upstream is, and set up an upstream repository
+
+## Exercises
 
 <h3>Part I</h3>
 
