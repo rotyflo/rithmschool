@@ -1,24 +1,23 @@
 # Rithm School
+A repo for documenting my progress through Rithm School.
 
+## Curriculum
 
-### Curriculum
-| Completed  | Material                                                                                                       | Hours
-|------------|----------------------------------------------------------------------------------------------------------------|---------------
-| 2020 May 5 | [Terminal and UNIX](https://www.rithmschool.com/courses/terminal)                                              | 15
-|            | [Git and GitHub](https://www.rithmschool.com/courses/git)                                                      | 15
-|            | [HTML / CSS I](https://www.rithmschool.com/courses/html-css-fundamentals)                                      | 10
-|            | [CSS II](https://www.rithmschool.com/courses/intermediate-css-bootstrap)                                       | 15
-|            | [JavaScript I](https://www.rithmschool.com/courses/javascript)                                                 | 15
-|            | [JavaScript II](https://www.rithmschool.com/courses/intermediate-javascript)                                   | 20
-|            | [JavaScript III](https://www.rithmschool.com/courses/intermediate-javascript-part-2)                           | 25
-|            | [JavaScript IV](https://www.rithmschool.com/courses/advanced-javascript)                                       | 25
-|            | [JavaScript V](https://www.rithmschool.com/courses/advanced-javascript-part-2)                                 | 20
-|            | [Python I](https://www.rithmschool.com/courses/python-fundamentals-part-1)                                     | 20
-|            | [Python II](https://www.rithmschool.com/courses/python-fundamentals-part-2)                                    | 20
-|            | [Flask I / SQL](https://www.rithmschool.com/courses/flask-fundamentals)                                        | 25
-|            | [Flask II](https://www.rithmschool.com/courses/intermediate-flask)                                             | 30
-|            | [Node and Express I](https://www.rithmschool.com/courses/node-express-fundamentals)                            | 15
-|            | [Node and Express II](https://www.rithmschool.com/courses/intermediate-node-express)                           | 20
-|            | [React I](https://www.rithmschool.com/courses/react-fundamentals)                                              | 25
-|            | [React II](https://www.rithmschool.com/courses/intermediate-react)                                             | 25
-|            | [Data Structures and Algorithms](https://www.rithmschool.com/courses/javascript-computer-science-fundamentals) | 30
+- [x] [Terminal and UNIX](https://www.rithmschool.com/courses/terminal)
+- [x] [Git and GitHub](https://www.rithmschool.com/courses/git)
+- [ ] [HTML / CSS I](https://www.rithmschool.com/courses/html-css-fundamentals)
+- [ ] [CSS II](https://www.rithmschool.com/courses/intermediate-css-bootstrap)            
+- [ ] [JavaScript I](https://www.rithmschool.com/courses/javascript)                      
+- [ ] [JavaScript II](https://www.rithmschool.com/courses/intermediate-javascript)        
+- [ ] [JavaScript III](https://www.rithmschool.com/courses/intermediate-javascript-part-2)
+- [ ] [JavaScript IV](https://www.rithmschool.com/courses/advanced-javascript)            
+- [ ] [JavaScript V](https://www.rithmschool.com/courses/advanced-javascript-part-2)      
+- [ ] [Python I](https://www.rithmschool.com/courses/python-fundamentals-part-1)          
+- [ ] [Python II](https://www.rithmschool.com/courses/python-fundamentals-part-2)         
+- [ ] [Flask I / SQL](https://www.rithmschool.com/courses/flask-fundamentals)             
+- [ ] [Flask II](https://www.rithmschool.com/courses/intermediate-flask)                  
+- [ ] [Node and Express I](https://www.rithmschool.com/courses/node-express-fundamentals) 
+- [ ] [Node and Express II](https://www.rithmschool.com/courses/intermediate-node-express)
+- [ ] [React I](https://www.rithmschool.com/courses/react-fundamentals)                   
+- [ ] [React II](https://www.rithmschool.com/courses/intermediate-react)                  
+- [ ] [Data Structures and Algorithms](https://www.rithmschool.com/courses/javascript-computer-science-fundamentals)
